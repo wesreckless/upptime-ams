@@ -33,10 +33,6 @@ sites:
     url: https://subsidios.sentraland.net
   - name: www.aconcaguatravel.cl
     url: https://www.aconcaguatravel.cl
-  - name: www.comercioandino.cl
-    url: https://www.comercioandino.cl
-  - name: www.destinolagoranco.cl
-    url: https://www.destinolagoranco.cl
 
 
 status-website:
