@@ -7,6 +7,8 @@ sites:
     url: https://www.amsmobilesolutions.cl
   - name: Sentraland
     url: https://www.sentraland.net
+  - name: Soporte Sentraland
+    url: https://soporte.sentraland.net
   - name: PST Sentraland
     url: https://sent.sentraland.net
   - name: PST Netuno
@@ -17,14 +19,24 @@ sites:
     url: https://convenios.laaraucana.cl
   - name: Essbio
     url: https://www.essbio.cl
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
   - name: Nuevosur
     url: https://www.nuevosur.cl
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
   - name: Club Metrogas
     url: https://www.clubmetrogas.cl
+  - name: backcore.sentraland.net
+    url: https://backcore.sentraland.net
+  - name: hospitalario.sentraland.net
+    url: https://hospitalario.sentraland.net
+  - name: programas-medicos.sentraland.net
+    url: https://programas-medicos.sentraland.net
+  - name: subsidios.sentraland.net
+    url: https://subsidios.sentraland.net
+  - name: www.aconcaguatravel.cl
+    url: https://www.aconcaguatravel.cl
+  - name: www.comercioandino.cl
+    url: https://www.comercioandino.cl
+  - name: www.destinolagoranco.cl
+    url: https://www.destinolagoranco.cl
 
 
 status-website:
