@@ -160,7 +160,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-12-02": 115,
+      "2024-12-02": 801,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -187,7 +187,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-12-02": 115,
+      "2024-12-02": 801,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -202,9 +202,9 @@
     "url": "https://www.clubmetrogas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.clubmetrogas.cl.ico",
     "slug": "club-metrogas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,7 +213,9 @@
     "timeWeek": 1710,
     "timeMonth": 1710,
     "timeYear": 1710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-02": 0
+    }
   },
   {
     "name": "backcore.sentraland.net",
