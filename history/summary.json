@@ -40,9 +40,9 @@
     "url": "https://www.smsmasivo.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.smsmasivo.net.ico",
     "slug": "sms-masivo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 336,
     "timeMonth": 336,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   },
   {
     "name": "Soporte Sentraland",
@@ -160,7 +162,7 @@
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-12-03": 113,
+      "2024-12-03": 301,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -188,7 +190,7 @@
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-12-03": 113,
+      "2024-12-03": 301,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -205,11 +207,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubmetrogas.cl.ico",
     "slug": "club-metrogas",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "96.92%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 1715,
     "timeDay": 1765,
     "timeWeek": 1713,
