@@ -4,19 +4,19 @@
     "url": "https://www.amsmobilesolutions.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.amsmobilesolutions.cl.ico",
     "slug": "ams",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 1024,
-    "timeWeek": 954,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 971,
+    "timeDay": 1144,
+    "timeWeek": 989,
+    "timeMonth": 971,
+    "timeYear": 971,
     "dailyMinutesDown": {
-      "2024-12-04": 0
+      "2024-12-04": 5
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-12-04": 1211,
+      "2024-12-04": 1215,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
@@ -191,7 +191,7 @@
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2024-12-04": 1211,
+      "2024-12-04": 1215,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
