@@ -4,9 +4,9 @@
     "url": "https://www.amsmobilesolutions.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.amsmobilesolutions.cl.ico",
     "slug": "ams",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1046,
     "timeMonth": 982,
     "timeYear": 982,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   },
   {
     "name": "Sentraland",
@@ -160,7 +162,7 @@
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-12-06": 112,
+      "2024-12-06": 1241,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -191,7 +193,7 @@
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-12-06": 112,
+      "2024-12-06": 1241,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -211,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubmetrogas.cl.ico",
     "slug": "club-metrogas",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 1738,
     "timeDay": 1974,
     "timeWeek": 1811,
