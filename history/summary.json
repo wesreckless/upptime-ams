@@ -160,7 +160,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-12-09": 117,
+      "2024-12-09": 789,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -194,7 +194,7 @@
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-12-09": 117,
+      "2024-12-09": 789,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -217,11 +217,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubmetrogas.cl.ico",
     "slug": "club-metrogas",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 1774,
     "timeDay": 1686,
     "timeWeek": 1927,
@@ -319,6 +319,24 @@
     "timeWeek": 433,
     "timeMonth": 406,
     "timeYear": 406,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Personas Grandes",
+    "url": "https://www.clubpersonasgrandes.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.clubpersonasgrandes.com.ico",
+    "slug": "personas-grandes",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
