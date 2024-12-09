@@ -35,6 +35,8 @@ sites:
     url: https://subsidios.sentraland.net
   - name: www.aconcaguatravel.cl
     url: https://www.aconcaguatravel.cl
+  - name: Personas Grandes
+    url: https://www.clubpersonasgrandes.com/
 
 
 workflowSchedule:
