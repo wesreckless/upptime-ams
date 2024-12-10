@@ -76,27 +76,29 @@
     "url": "https://sent.sentraland.net",
     "icon": "https://icons.duckduckgo.com/ip3/sent.sentraland.net.ico",
     "slug": "pst-sentraland",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 222,
     "timeDay": 175,
     "timeWeek": 231,
     "timeMonth": 222,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-10": 2
+    }
   },
   {
     "name": "PST Netuno",
     "url": "https://smsys.netuno.cl",
     "icon": "https://icons.duckduckgo.com/ip3/smsys.netuno.cl.ico",
     "slug": "pst-netuno",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +107,9 @@
     "timeWeek": 658,
     "timeMonth": 595,
     "timeYear": 595,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-10": 0
+    }
   },
   {
     "name": "PST Movistar",
@@ -160,7 +164,7 @@
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-12-10": 115,
+      "2024-12-10": 253,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -195,7 +199,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-12-10": 115,
+      "2024-12-10": 253,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
