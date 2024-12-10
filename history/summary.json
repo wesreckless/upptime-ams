@@ -76,19 +76,19 @@
     "url": "https://sent.sentraland.net",
     "icon": "https://icons.duckduckgo.com/ip3/sent.sentraland.net.ico",
     "slug": "pst-sentraland",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 222,
-    "timeDay": 175,
-    "timeWeek": 231,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 221,
+    "timeDay": 186,
+    "timeWeek": 227,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-12-10": 2
+      "2024-12-10": 24
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://smsys.netuno.cl",
     "icon": "https://icons.duckduckgo.com/ip3/smsys.netuno.cl.ico",
     "slug": "pst-netuno",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 526,
-    "timeWeek": 658,
-    "timeMonth": 595,
-    "timeYear": 595,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 593,
+    "timeDay": 534,
+    "timeWeek": 643,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2024-12-10": 0
+      "2024-12-10": 22
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-12-10": 253,
+      "2024-12-10": 275,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -199,7 +199,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-12-10": 253,
+      "2024-12-10": 275,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
