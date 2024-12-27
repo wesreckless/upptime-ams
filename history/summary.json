@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1055,
     "timeDay": 1382,
-    "timeWeek": 970,
+    "timeWeek": 963,
     "timeMonth": 1092,
     "timeYear": 1055,
     "dailyMinutesDown": {}
@@ -164,7 +164,7 @@
     "timeMonth": 170,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2024-12-27": 104,
+      "2024-12-27": 421,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -216,7 +216,7 @@
     "timeMonth": 167,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-12-27": 104,
+      "2024-12-27": 421,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -349,17 +349,19 @@
     "url": "https://www.aconcaguatravel.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.aconcaguatravel.cl.ico",
     "slug": "www-aconcaguatravel-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 855,
-    "timeWeek": 687,
-    "timeMonth": 465,
-    "timeYear": 441,
-    "dailyMinutesDown": {}
+    "time": 461,
+    "timeDay": 1090,
+    "timeWeek": 740,
+    "timeMonth": 488,
+    "timeYear": 461,
+    "dailyMinutesDown": {
+      "2024-12-27": 0
+    }
   }
 ]
