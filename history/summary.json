@@ -96,9 +96,9 @@
     "url": "https://smsys.netuno.cl",
     "icon": "https://icons.duckduckgo.com/ip3/smsys.netuno.cl.ico",
     "slug": "pst-netuno",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -108,6 +108,7 @@
     "timeMonth": 893,
     "timeYear": 785,
     "dailyMinutesDown": {
+      "2024-12-29": 0,
       "2024-12-10": 22
     }
   },
@@ -164,7 +165,7 @@
     "timeMonth": 173,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-12-29": 112,
+      "2024-12-29": 1236,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -218,7 +219,7 @@
     "timeMonth": 170,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2024-12-29": 112,
+      "2024-12-29": 1236,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -261,11 +262,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubmetrogas.cl.ico",
     "slug": "club-metrogas",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 1617,
     "timeDay": 974,
     "timeWeek": 1107,
