@@ -4,9 +4,9 @@
     "url": "https://www.amsmobilesolutions.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.amsmobilesolutions.cl.ico",
     "slug": "ams",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1020,
     "timeMonth": 1086,
     "timeYear": 1041,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-05": 0
+    }
   },
   {
     "name": "Sentraland",
@@ -97,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smsys.netuno.cl.ico",
     "slug": "pst-netuno",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.01%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.77%",
     "time": 761,
     "timeDay": 818,
     "timeWeek": 632,
@@ -165,7 +167,7 @@
     "timeMonth": 174,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-01-05": 425,
+      "2025-01-05": 1206,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -226,7 +228,7 @@
     "timeMonth": 167,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-01-05": 425,
+      "2025-01-05": 1206,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -369,18 +371,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aconcaguatravel.cl.ico",
     "slug": "www-aconcaguatravel-cl",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 574,
     "timeDay": 1229,
     "timeWeek": 937,
     "timeMonth": 646,
     "timeYear": 574,
-    "dailyMinutesDown": {
-      "2025-01-05": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
