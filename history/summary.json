@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smsys.netuno.cl.ico",
     "slug": "pst-netuno",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.01%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 747,
     "timeDay": 533,
     "timeWeek": 595,
@@ -165,7 +165,7 @@
     "timeMonth": 175,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-01-09": 131,
+      "2025-01-09": 420,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -230,7 +230,7 @@
     "timeMonth": 163,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-01-09": 131,
+      "2025-01-09": 420,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -376,17 +376,19 @@
     "url": "https://www.aconcaguatravel.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.aconcaguatravel.cl.ico",
     "slug": "www-aconcaguatravel-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 274,
-    "timeWeek": 995,
-    "timeMonth": 672,
-    "timeYear": 585,
-    "dailyMinutesDown": {}
+    "time": 591,
+    "timeDay": 621,
+    "timeWeek": 971,
+    "timeMonth": 679,
+    "timeYear": 591,
+    "dailyMinutesDown": {
+      "2025-01-09": 0
+    }
   }
 ]
