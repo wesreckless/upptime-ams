@@ -40,19 +40,19 @@
     "url": "https://www.smsmasivo.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.smsmasivo.net.ico",
     "slug": "sms-masivo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 418,
-    "timeWeek": 424,
-    "timeMonth": 337,
-    "timeYear": 348,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 353,
+    "timeDay": 489,
+    "timeWeek": 441,
+    "timeMonth": 344,
+    "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-01-10": 1
+      "2025-01-10": 5
     }
   },
   {
@@ -167,7 +167,7 @@
     "timeMonth": 176,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-01-10": 107,
+      "2025-01-10": 110,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -233,7 +233,7 @@
     "timeMonth": 161,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-01-10": 107,
+      "2025-01-10": 110,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
