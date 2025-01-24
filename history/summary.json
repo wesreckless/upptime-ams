@@ -4,18 +4,20 @@
     "url": "https://www.amsmobilesolutions.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.amsmobilesolutions.cl.ico",
     "slug": "ams",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1075,
-    "timeDay": 969,
+    "timeDay": 760,
     "timeWeek": 1499,
     "timeMonth": 1094,
     "timeYear": 1075,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-24": 0
+    }
   },
   {
     "name": "Sentraland",
@@ -97,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smsys.netuno.cl.ico",
     "slug": "pst-netuno",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.39%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.16%",
     "time": 718,
     "timeDay": 438,
     "timeWeek": 595,
@@ -165,7 +167,7 @@
     "timeMonth": 133,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-01-24": 102,
+      "2025-01-24": 1111,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -245,7 +247,7 @@
     "timeMonth": 119,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-01-24": 102,
+      "2025-01-24": 1111,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
