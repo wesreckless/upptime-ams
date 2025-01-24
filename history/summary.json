@@ -117,19 +117,19 @@
     "url": "https://pst.movistar.cl:8443/PSTadmin/init.do",
     "icon": "https://icons.duckduckgo.com/ip3/pst.movistar.cl.ico",
     "slug": "pst-movistar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 549,
-    "timeWeek": 622,
-    "timeMonth": 760,
-    "timeYear": 675,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 674,
+    "timeDay": 546,
+    "timeWeek": 612,
+    "timeMonth": 753,
+    "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-24": 5
     }
   },
   {
@@ -167,7 +167,7 @@
     "timeMonth": 133,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-01-24": 1336,
+      "2025-01-24": 1340,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -247,7 +247,7 @@
     "timeMonth": 119,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-01-24": 1336,
+      "2025-01-24": 1340,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
