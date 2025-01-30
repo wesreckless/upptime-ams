@@ -4,19 +4,19 @@
     "url": "https://www.amsmobilesolutions.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.amsmobilesolutions.cl.ico",
     "slug": "ams",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1138,
-    "timeDay": 925,
-    "timeWeek": 1666,
-    "timeMonth": 1273,
-    "timeYear": 1138,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "67.04%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.50%",
+    "time": 1216,
+    "timeDay": 4516,
+    "timeWeek": 2310,
+    "timeMonth": 1458,
+    "timeYear": 1216,
     "dailyMinutesDown": {
-      "2025-01-30": 1
+      "2025-01-30": 475
     }
   },
   {
@@ -167,7 +167,7 @@
     "timeMonth": 126,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-01-30": 136,
+      "2025-01-30": 611,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -253,7 +253,7 @@
     "timeMonth": 124,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-01-30": 136,
+      "2025-01-30": 611,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -420,19 +420,19 @@
     "url": "https://www.aconcaguatravel.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.aconcaguatravel.cl.ico",
     "slug": "www-aconcaguatravel-cl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 470,
-    "timeWeek": 367,
-    "timeMonth": 641,
-    "timeYear": 555,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "67.06%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.50%",
+    "time": 660,
+    "timeDay": 5133,
+    "timeWeek": 1546,
+    "timeMonth": 870,
+    "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 474
     }
   }
 ]
