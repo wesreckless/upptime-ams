@@ -4,10 +4,10 @@
     "url": "https://www.amsmobilesolutions.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.amsmobilesolutions.cl.ico",
     "slug": "ams",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1138,
@@ -15,7 +15,9 @@
     "timeWeek": 1666,
     "timeMonth": 1273,
     "timeYear": 1138,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-30": 1
+    }
   },
   {
     "name": "Sentraland",
@@ -165,7 +167,7 @@
     "timeMonth": 126,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-01-30": 100,
+      "2025-01-30": 136,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -251,7 +253,7 @@
     "timeMonth": 124,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-01-30": 100,
+      "2025-01-30": 136,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -418,9 +420,9 @@
     "url": "https://www.aconcaguatravel.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.aconcaguatravel.cl.ico",
     "slug": "www-aconcaguatravel-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -429,6 +431,8 @@
     "timeWeek": 367,
     "timeMonth": 641,
     "timeYear": 555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   }
 ]
