@@ -24,10 +24,10 @@
     "url": "https://www.sentraland.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.sentraland.net.ico",
     "slug": "sentraland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1079,
@@ -35,7 +35,9 @@
     "timeWeek": 1282,
     "timeMonth": 1206,
     "timeYear": 1079,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 2
+    }
   },
   {
     "name": "SMS Masivo",
@@ -99,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smsys.netuno.cl.ico",
     "slug": "pst-netuno",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 703,
     "timeDay": 516,
     "timeWeek": 568,
@@ -137,9 +139,9 @@
     "url": "https://convenios.laaraucana.cl",
     "icon": "https://icons.duckduckgo.com/ip3/convenios.laaraucana.cl.ico",
     "slug": "convenios-la-araucana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,7 +150,9 @@
     "timeWeek": 631,
     "timeMonth": 585,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "Essbio",
@@ -167,7 +171,7 @@
     "timeMonth": 131,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-02-05": 103,
+      "2025-02-05": 1008,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -259,7 +263,7 @@
     "timeMonth": 121,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-02-05": 103,
+      "2025-02-05": 1008,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -441,7 +445,7 @@
     "time": 691,
     "timeDay": 236,
     "timeWeek": 2149,
-    "timeMonth": 908,
+    "timeMonth": 880,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2025-01-30": 474
