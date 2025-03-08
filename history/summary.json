@@ -49,7 +49,7 @@
     "uptime": "77.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.56%",
+    "uptimeMonth": "27.55%",
     "uptimeYear": "77.97%",
     "time": 329,
     "timeDay": 221,
@@ -57,7 +57,7 @@
     "timeMonth": 267,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-03-08": 846,
+      "2025-03-08": 852,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -164,11 +164,11 @@
     "url": "https://convenios.laaraucana.cl",
     "icon": "https://icons.duckduckgo.com/ip3/convenios.laaraucana.cl.ico",
     "slug": "convenios-la-araucana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 856,
     "timeDay": 2810,
@@ -176,7 +176,7 @@
     "timeMonth": 1681,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2025-03-08": 4,
+      "2025-03-08": 0,
       "2025-02-05": 33
     }
   },
@@ -197,7 +197,7 @@
     "timeMonth": 145,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-03-08": 846,
+      "2025-03-08": 852,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -320,7 +320,7 @@
     "timeMonth": 133,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-03-08": 846,
+      "2025-03-08": 852,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
