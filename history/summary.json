@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smsmasivo.net.ico",
     "slug": "sms-masivo",
     "status": "down",
-    "uptime": "77.60%",
+    "uptime": "77.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.99%",
-    "uptimeYear": "77.60%",
+    "uptimeMonth": "25.37%",
+    "uptimeYear": "77.46%",
     "time": 329,
     "timeDay": 321,
     "timeWeek": 295,
     "timeMonth": 260,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-03-09": 93,
+      "2025-03-09": 366,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -147,9 +147,9 @@
     "url": "https://pst.movistar.cl:8443/PSTadmin/init.do",
     "icon": "https://icons.duckduckgo.com/ip3/pst.movistar.cl.ico",
     "slug": "pst-movistar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -158,7 +158,9 @@
     "timeWeek": 634,
     "timeMonth": 644,
     "timeYear": 656,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-09": 0
+    }
   },
   {
     "name": "Convenios La Araucana",
@@ -197,7 +199,7 @@
     "timeMonth": 147,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-03-09": 93,
+      "2025-03-09": 366,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -321,7 +323,7 @@
     "timeMonth": 135,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-03-09": 93,
+      "2025-03-09": 366,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
