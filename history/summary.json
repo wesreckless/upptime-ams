@@ -57,7 +57,7 @@
     "timeMonth": 267,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-03-18": 287,
+      "2025-03-18": 290,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -206,7 +206,7 @@
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-03-18": 287,
+      "2025-03-18": 290,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -339,7 +339,7 @@
     "timeMonth": 130,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-03-18": 287,
+      "2025-03-18": 290,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -517,19 +517,19 @@
     "url": "https://programas-medicos.sentraland.net",
     "icon": "https://icons.duckduckgo.com/ip3/programas-medicos.sentraland.net.ico",
     "slug": "programas-medicos-sentraland-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 306,
-    "timeWeek": 267,
-    "timeMonth": 270,
-    "timeYear": 193,
+    "time": 192,
+    "timeDay": 222,
+    "timeWeek": 251,
+    "timeMonth": 265,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-03-18": 0
+      "2025-03-18": 3
     }
   },
   {
