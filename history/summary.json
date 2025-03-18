@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smsmasivo.net.ico",
     "slug": "sms-masivo",
     "status": "down",
-    "uptime": "71.22%",
+    "uptime": "71.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "71.22%",
+    "uptimeYear": "71.14%",
     "time": 328,
     "timeDay": 453,
     "timeWeek": 295,
     "timeMonth": 267,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-03-18": 110,
+      "2025-03-18": 287,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -206,7 +206,7 @@
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-03-18": 110,
+      "2025-03-18": 287,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -339,7 +339,7 @@
     "timeMonth": 130,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-03-18": 110,
+      "2025-03-18": 287,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -517,9 +517,9 @@
     "url": "https://programas-medicos.sentraland.net",
     "icon": "https://icons.duckduckgo.com/ip3/programas-medicos.sentraland.net.ico",
     "slug": "programas-medicos-sentraland-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -528,7 +528,9 @@
     "timeWeek": 267,
     "timeMonth": 270,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-18": 0
+    }
   },
   {
     "name": "subsidios.sentraland.net",
