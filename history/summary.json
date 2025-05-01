@@ -46,9 +46,9 @@
     "slug": "sentraland",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "93.58%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.94%",
     "time": 1841,
     "timeDay": 2276,
@@ -56,7 +56,7 @@
     "timeMonth": 1300,
     "timeYear": 1841,
     "dailyMinutesDown": {
-      "2025-05-01": 92,
+      "2025-05-01": 96,
       "2025-02-05": 34
     }
   },
@@ -77,7 +77,7 @@
     "timeMonth": 233,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-05-01": 984,
+      "2025-05-01": 987,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -163,9 +163,9 @@
     "slug": "soporte-sentraland",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 388,
     "timeDay": 6303,
@@ -173,7 +173,7 @@
     "timeMonth": 1115,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-05-01": 39
+      "2025-05-01": 35
     }
   },
   {
@@ -240,19 +240,19 @@
     "url": "https://convenios.laaraucana.cl",
     "icon": "https://icons.duckduckgo.com/ip3/convenios.laaraucana.cl.ico",
     "slug": "convenios-la-araucana",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "99.15%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.95%",
-    "time": 1022,
-    "timeDay": 8911,
-    "timeWeek": 2657,
-    "timeMonth": 1254,
-    "timeYear": 1022,
+    "time": 1099,
+    "timeDay": 11030,
+    "timeWeek": 4058,
+    "timeMonth": 1692,
+    "timeYear": 1099,
     "dailyMinutesDown": {
-      "2025-05-01": 86,
+      "2025-05-01": 88,
       "2025-02-05": 33
     }
   },
@@ -273,7 +273,7 @@
     "timeMonth": 187,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-05-01": 984,
+      "2025-05-01": 987,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -450,7 +450,7 @@
     "timeMonth": 161,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-05-01": 984,
+      "2025-05-01": 987,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -711,8 +711,8 @@
     "slug": "www-aconcaguatravel-cl",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "93.75%",
-    "uptimeWeek": "99.11%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.75%",
     "time": 635,
@@ -721,7 +721,7 @@
     "timeMonth": 766,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2025-05-01": 90,
+      "2025-05-01": 93,
       "2025-01-30": 474
     }
   }
