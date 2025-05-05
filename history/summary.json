@@ -50,8 +50,8 @@
     "status": "down",
     "uptime": "98.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.99%",
-    "uptimeMonth": "93.32%",
+    "uptimeWeek": "70.94%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "98.72%",
     "time": 2062,
     "timeDay": 149,
@@ -59,7 +59,7 @@
     "timeMonth": 2671,
     "timeYear": 2062,
     "dailyMinutesDown": {
-      "2025-05-05": 1175,
+      "2025-05-05": 1180,
       "2025-05-04": 1440,
       "2025-05-03": 165,
       "2025-05-01": 144,
@@ -71,15 +71,15 @@
     "url": "https://www.smsmasivo.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.smsmasivo.net.ico",
     "slug": "sms-masivo",
-    "status": "up",
+    "status": "down",
     "uptime": "49.29%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "1.39%",
     "uptimeYear": "49.29%",
     "time": 299,
-    "timeDay": 350,
-    "timeWeek": 258,
+    "timeDay": 291,
+    "timeWeek": 254,
     "timeMonth": 244,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -172,18 +172,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/soporte.sentraland.net.ico",
     "slug": "soporte-sentraland",
     "status": "down",
-    "uptime": "98.78%",
+    "uptime": "98.77%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.84%",
-    "uptimeMonth": "93.52%",
-    "uptimeYear": "98.78%",
+    "uptimeWeek": "71.79%",
+    "uptimeMonth": "93.51%",
+    "uptimeYear": "98.77%",
     "time": 557,
     "timeDay": 104,
     "timeWeek": 4585,
     "timeMonth": 1878,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2025-05-05": 1175,
+      "2025-05-05": 1180,
       "2025-05-04": 1440,
       "2025-05-03": 165,
       "2025-05-01": 59
@@ -286,7 +286,7 @@
     "timeMonth": 186,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-05-05": 1176,
+      "2025-05-05": 1181,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
@@ -467,7 +467,7 @@
     "timeMonth": 163,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-05-05": 1176,
+      "2025-05-05": 1181,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
@@ -661,8 +661,8 @@
     "status": "down",
     "uptime": "98.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.42%",
-    "uptimeMonth": "93.65%",
+    "uptimeWeek": "72.37%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "98.80%",
     "time": 200,
     "timeDay": 158,
@@ -670,7 +670,7 @@
     "timeMonth": 214,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-05-05": 1176,
+      "2025-05-05": 1181,
       "2025-05-04": 1440,
       "2025-05-03": 165
     }
@@ -683,8 +683,8 @@
     "status": "down",
     "uptime": "98.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.42%",
-    "uptimeMonth": "93.65%",
+    "uptimeWeek": "72.37%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "98.80%",
     "time": 187,
     "timeDay": 79,
@@ -692,7 +692,7 @@
     "timeMonth": 188,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-05-05": 1176,
+      "2025-05-05": 1181,
       "2025-05-04": 1440,
       "2025-05-03": 165
     }
@@ -705,8 +705,8 @@
     "status": "down",
     "uptime": "98.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.42%",
-    "uptimeMonth": "93.65%",
+    "uptimeWeek": "72.37%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "98.80%",
     "time": 191,
     "timeDay": 76,
@@ -714,7 +714,7 @@
     "timeMonth": 202,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-05-05": 1176,
+      "2025-05-05": 1181,
       "2025-05-04": 1440,
       "2025-05-03": 165
     }
@@ -727,8 +727,8 @@
     "status": "down",
     "uptime": "98.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.42%",
-    "uptimeMonth": "93.65%",
+    "uptimeWeek": "72.37%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "98.80%",
     "time": 193,
     "timeDay": 153,
@@ -736,7 +736,7 @@
     "timeMonth": 192,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-05-05": 1176,
+      "2025-05-05": 1181,
       "2025-05-04": 1440,
       "2025-05-03": 165
     }
