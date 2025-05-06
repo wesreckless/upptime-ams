@@ -9,12 +9,20 @@ sites:
   - name: Sentraland
     url: https://www.sentraland.net
     maxResponseTime: 5000
+    expectedStatusCodes:
+    - 200
+    - 304
+    - 307
   - name: SMS Masivo
     url: https://www.smsmasivo.cl
     maxResponseTime: 5000
   - name: Soporte Sentraland
     url: https://soporte.sentraland.net
     maxResponseTime: 5000
+    expectedStatusCodes:
+    - 200
+    - 304
+    - 307
   - name: PST Sentraland
     url: https://sent.sentraland.net
   - name: PST Netuno
@@ -23,8 +31,12 @@ sites:
     url: https://pst.movistar.cl:8443/PSTadmin/init.do
   - name: Convenios La Araucana
     url: https://convenios.laaraucana.cl
-#  - name: Essbio
-#    url: https://www.essbio.cl
+  - name: Essbio
+    url: https://www.essbio.cl
+    expectedStatusCodes:
+    - 200
+    - 304
+    - 307
 #  - name: Nuevosur
 #    url: https://www.nuevosur.cl
   - name: Club Metrogas
@@ -32,19 +44,38 @@ sites:
   - name: backcore.sentraland.net
     url: https://backcore.sentraland.net
     maxResponseTime: 5000
+    expectedStatusCodes:
+    - 200
+    - 304
+    - 307
   - name: hospitalario.sentraland.net
     url: https://hospitalario.sentraland.net
     maxResponseTime: 5000
+    expectedStatusCodes:
+    - 200
+    - 304
+    - 307
   - name: programas-medicos.sentraland.net
     url: https://programas-medicos.sentraland.net
     maxResponseTime: 5000
+    expectedStatusCodes:
+    - 200
+    - 304
+    - 307
   - name: subsidios.sentraland.net
     url: https://subsidios.sentraland.net
     maxResponseTime: 5000
+    expectedStatusCodes:
+    - 200
+    - 304
+    - 307
   - name: www.aconcaguatravel.cl
     url: https://www.aconcaguatravel.cl
     maxResponseTime: 5000
-
+    expectedStatusCodes:
+    - 200
+    - 304
+    - 307
 
 workflowSchedule:
   uptime: "0 1 1 * *"
