@@ -10,7 +10,7 @@ sites:
     url: https://www.sentraland.net
     maxResponseTime: 5000
   - name: SMS Masivo
-    url: https://www.smsmasivo.net
+    url: https://www.smsmasivo.cl
     maxResponseTime: 5000
   - name: Soporte Sentraland
     url: https://soporte.sentraland.net
