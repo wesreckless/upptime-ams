@@ -24,9 +24,9 @@
     "url": "https://smsys.netuno.cl",
     "icon": "https://icons.duckduckgo.com/ip3/smsys.netuno.cl.ico",
     "slug": "pst-netuno",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
@@ -36,6 +36,7 @@
     "timeMonth": 639,
     "timeYear": 691,
     "dailyMinutesDown": {
+      "2025-06-14": 0,
       "2025-01-03": 704,
       "2024-12-10": 22
     }
