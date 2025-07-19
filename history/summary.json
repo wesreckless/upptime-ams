@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 289,
-    "timeDay": 286,
-    "timeWeek": 278,
-    "timeMonth": 298,
-    "timeYear": 289,
+    "time": 290,
+    "timeDay": 429,
+    "timeWeek": 316,
+    "timeMonth": 302,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2024-12-10": 24
     }
@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/smsys.netuno.cl.ico",
     "slug": "pst-netuno",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 707,
-    "timeDay": 582,
-    "timeWeek": 659,
+    "timeDay": 801,
+    "timeWeek": 692,
     "timeMonth": 822,
     "timeYear": 707,
     "dailyMinutesDown": {
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 653,
-    "timeDay": 710,
-    "timeWeek": 666,
-    "timeMonth": 667,
-    "timeYear": 653,
+    "time": 654,
+    "timeDay": 699,
+    "timeWeek": 694,
+    "timeMonth": 666,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-05-06": 35
     }
