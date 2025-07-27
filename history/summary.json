@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 288,
-    "timeDay": 263,
-    "timeWeek": 249,
-    "timeMonth": 293,
-    "timeYear": 288,
+    "time": 289,
+    "timeDay": 309,
+    "timeWeek": 259,
+    "timeMonth": 294,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2024-12-10": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 705,
-    "timeDay": 681,
-    "timeWeek": 620,
-    "timeMonth": 818,
+    "timeDay": 655,
+    "timeWeek": 628,
+    "timeMonth": 686,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2025-01-03": 704,
@@ -47,17 +47,16 @@
     "slug": "pst-movistar",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 653,
-    "timeDay": 673,
-    "timeWeek": 644,
+    "timeDay": 655,
+    "timeWeek": 651,
     "timeMonth": 663,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-07-26": 4,
       "2025-05-06": 35
     }
   }
